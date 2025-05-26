@@ -1,0 +1,21 @@
+{
+    "name": "Location Tracker",
+    "short_name": "Location",
+    "description": "Track your location and save it as GPX",
+    "start_url": "/locationapp/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#4CAF50",
+    "icons": [
+        {
+            "src": "/locationapp/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/locationapp/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+} 
